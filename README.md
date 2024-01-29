@@ -1,5 +1,5 @@
 # CS50 Scratch
-======================================
+
 
 This is CS50's Introduction to Programming with Scratch
 

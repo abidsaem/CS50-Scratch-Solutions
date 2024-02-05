@@ -1,4 +1,6 @@
-#[CS50S.pdf](https://github.com/abidsaem/CS50-Scratch-Solutions/files/14166730/CS50S.pdf)
+![CS50 Scratch](https://github.com/abidsaem/CS50-Scratch-Solutions/assets/158012888/300f5182-ccee-4cf5-a8bf-bb36ee18da06)
+
+
  CS50 Scratch
 
 

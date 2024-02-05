@@ -2,7 +2,6 @@
 
 
 # CS50S
-======================================
 
 This is CS50's Introduction to Programming with Scratch
 

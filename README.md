@@ -1,4 +1,5 @@
-# CS50 Scratch
+#[CS50S.pdf](https://github.com/abidsaem/CS50-Scratch-Solutions/files/14166730/CS50S.pdf)
+ CS50 Scratch
 
 
 This is CS50's Introduction to Programming with Scratch

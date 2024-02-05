@@ -1,7 +1,7 @@
 ![CS50 Scratch](https://github.com/abidsaem/CS50-Scratch-Solutions/assets/158012888/300f5182-ccee-4cf5-a8bf-bb36ee18da06)
 
 
-CS50S
+#CS50S
 ======================================
 
 This is CS50's Introduction to Programming with Scratch
